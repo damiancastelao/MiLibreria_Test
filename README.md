@@ -1,6 +1,6 @@
-#Librerías
+# Librerías
 ***
-##Añadir mediante JAR
+## Añadir mediante JAR
 
 - Descargamos librería, fichero de tipo ````.jar````
 - Abrimos _File->Proyect Structure->Global Libraries_
