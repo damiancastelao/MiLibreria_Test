@@ -15,5 +15,6 @@ public class Main {
         unaVentana.visualiza();
 
         System.out.println("Mi modificación");
+        System.out.println("Otra modificación");
     }
 }
