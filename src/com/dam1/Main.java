@@ -13,5 +13,8 @@ public class Main {
 
         InterfaceMetodosComunes unaVentana = FactoriaDeSalidas.getProducto(FactoriaDeSalidas.VENTANA,"Bye");
         unaVentana.visualiza();
+
+        System.out.println("Mi modificación");
+        System.out.println("Otra modificación");
     }
 }
